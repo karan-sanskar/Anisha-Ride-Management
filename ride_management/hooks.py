@@ -9,6 +9,16 @@ app_license = "mit"
 # Includes in <head>
 # ------------------
 
+
+fixtures = [
+    {
+        "doctype":"Item",
+        "filters":[
+            ["name","in",["Wi-Fi Access","Travel Insurance","Tourist Guides"]]
+        ]
+    }
+]
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/ride_management/css/ride_management.css"
 # app_include_js = "/assets/ride_management/js/ride_management.js"
