@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2024-08-29 12-01-00.png",
+  "mark": "sample",
+  "modified": "2024-09-18 12:42:13.811304",
+  "name": "Test1",
+  "price_per_km": 10.0,
+  "type": "sample1"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2024-08-29 12-01-00.png",
+  "mark": "sample1",
+  "modified": "2024-09-18 12:42:46.188672",
+  "name": "Test2",
+  "price_per_km": 15.0,
+  "type": "sample2"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Screenshot from 2024-08-29 12-01-00.png",
+  "mark": "sample2",
+  "modified": "2024-09-18 12:43:10.143726",
+  "name": "Test3",
+  "price_per_km": 20.0,
+  "type": "sample3"
+ }
+]

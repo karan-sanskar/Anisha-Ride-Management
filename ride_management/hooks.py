@@ -16,6 +16,21 @@ fixtures = [
         "filters":[
             ["name","in",["Wi-Fi Access","Travel Insurance","Tourist Guides"]]
         ]
+    },
+    {
+        "doctype":"Customer",
+        "filters":[
+        ]
+    },
+    {
+        "doctype":"Ride Booking",
+        "filters":[
+        ]
+    },
+    {
+        "doctype":"Vehicle Ride",
+        "filters":[
+        ]
     }
 ]
 

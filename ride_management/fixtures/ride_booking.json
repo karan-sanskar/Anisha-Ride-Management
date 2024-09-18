@@ -1,0 +1,132 @@
+[
+ {
+  "booking_date": "2024-09-19",
+  "customer": "Anisha1",
+  "customer_name": "Anisha1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 5.0,
+  "make": "sample",
+  "modified": "2024-09-18 13:13:00.791431",
+  "name": "Test1-{dd-mm-YY}-0001",
+  "phone_number": "6789578493",
+  "price_per_km": 10.0,
+  "return_date": "2024-09-22",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Test1-{dd-mm-YY}-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 0.0,
+  "type": "sample1",
+  "vehicle": "Test1"
+ },
+ {
+  "booking_date": "2024-09-19",
+  "customer": "Anisha1",
+  "customer_name": "Anisha1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 5.0,
+  "make": "sample",
+  "modified": "2024-09-18 13:15:31.093684",
+  "name": "Test1-{YYYY.-MM.-DD.}-0002",
+  "phone_number": "6789578493",
+  "price_per_km": 10.0,
+  "return_date": "2024-09-22",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Test1-{YYYY.-MM.-DD.}-0002",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 1550.0,
+  "type": "sample1",
+  "vehicle": "Test1"
+ },
+ {
+  "booking_date": "2024-09-19",
+  "customer": "Anisha1",
+  "customer_name": "Anisha1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 5.0,
+  "make": "sample",
+  "modified": "2024-09-18 13:17:15.865466",
+  "name": "Test1-{YYYY.-MM.-DD.}-0003",
+  "phone_number": "6789578493",
+  "price_per_km": 10.0,
+  "return_date": "2024-09-22",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Test1-{YYYY.-MM.-DD.}-0003",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 1550.0,
+  "type": "sample1",
+  "vehicle": "Test1"
+ },
+ {
+  "booking_date": "2024-09-19",
+  "customer": "Anisha1",
+  "customer_name": "Anisha1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 5.0,
+  "make": "sample",
+  "modified": "2024-09-18 13:17:33.873989",
+  "name": "Test1-{DD,MM,YY}-0004",
+  "phone_number": "6789578493",
+  "price_per_km": 10.0,
+  "return_date": "2024-09-22",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Test1-{DD,MM,YY}-0004",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 1550.0,
+  "type": "sample1",
+  "vehicle": "Test1"
+ },
+ {
+  "booking_date": "2024-09-19",
+  "customer": "Anisha1",
+  "customer_name": "Anisha1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 5.0,
+  "make": "sample",
+  "modified": "2024-09-18 13:19:37.581608",
+  "name": "{vehicle-.DD-.MM-.YY-.####}",
+  "phone_number": "6789578493",
+  "price_per_km": 10.0,
+  "return_date": "2024-09-22",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "{vehicle-.DD-.MM-.YY-.####}",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 1550.0,
+  "type": "sample1",
+  "vehicle": "Test1"
+ }
+]
